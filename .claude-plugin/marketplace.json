@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cad-skills",
+  "description": "A library of CAD drafting skills for Claude Code — survey/cadastral geometry, DXF generation, layer/ObjectData standards, and package validation conventions.",
+  "owner": {
+    "name": "newfie-stack",
+    "email": "tdarren2011@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "cad-drafting",
+      "description": "CAD drafting conventions and geometry-intelligence skills for Crown/cadastral land-survey toolchains.",
+      "category": "engineering",
+      "source": "./"
+    }
+  ]
+}
