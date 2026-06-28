@@ -1,0 +1,11 @@
+Checklist domains:
+- access road layout
+- spill containment
+- emergency response
+- signage
+- fencing
+- drainage
+- setback distances
+- equipment placement
+- fire checking
+- regulatory permits

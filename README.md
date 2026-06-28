@@ -50,5 +50,11 @@ from raw GitHub URLs:
 | Skill | What it covers |
 |---|---|
 | `cad-toolchain-patterns` | Crown cadastral toolchain conventions: schema-first layer/ObjectData definitions, geometry rules (townships→squares, pipelines→corridors, surveyed boundary control preferred), closed clockwise rings, and Python scaffold style. |
+| `intelligizer-cad-gis` | Alberta survey CAD-to-GIS drafting automation: turning unintelligent DWG linework into intelligent, object-data-ready features (section evidence, bearings/distances, road allowances, land-status, hydrology, radius circles) for AutoCAD Map 3D / Civil 3D → shapefile workflows. |
+| `crown-land-deliverables-guide` | Crown Land deliverables planning: required file types/quantities and submission prep across PDF/CAD/SHP outputs. |
+| `aer-onestop-guide` | AER OneStop procedural guidance: step-by-step submission instructions and shapefile/LLD/consent troubleshooting. |
+| `msl-package-assistant` | Alberta Crown land MSL renewal/amendment/partial-reclamation package assembly: compliant OneStop/AER ZIP structures, required-file and naming checks. |
+| `shapefile-validator` | Validate & assemble Alberta Crown land submission packages (MSL, wellsites, pipelines, access roads): DWG/PDF/shapefile consistency, schema/projection/topology checks, ZIP readiness. |
+| `wellsite-plan-validator` | Validate wellsite plans against a structured compliance checklist with itemized YES/NO outcomes (site layout, environmental protections, permit readiness). |
 
 _More CAD drafting skills go here as the library grows — see [CONTRIBUTING.md](./CONTRIBUTING.md)._

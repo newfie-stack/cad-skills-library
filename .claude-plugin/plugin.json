@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "cad-drafting",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CAD drafting skills for Claude Code — survey/cadastral geometry intelligence, DXF generation, layer/ObjectData standards, and package validation conventions.",
   "author": {
     "name": "newfie-stack",
