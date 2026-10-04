@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "cad-drafting",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "CAD/survey drafting skills plus reusable decision pressure-testing workflows for Claude Code, ChatGPT, and Codex.",
   "author": {
     "name": "newfie-stack",
