@@ -1,8 +1,8 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "cad-drafting",
-  "version": "0.2.0",
-  "description": "CAD drafting skills for Claude Code — survey/cadastral geometry intelligence, DXF generation, layer/ObjectData standards, and package validation conventions.",
+  "version": "0.3.0",
+  "description": "CAD/survey drafting skills plus reusable decision pressure-testing workflows for Claude Code, ChatGPT, and Codex.",
   "author": {
     "name": "newfie-stack",
     "email": "tdarren2011@gmail.com"
@@ -17,7 +17,8 @@
     "gis",
     "geometry",
     "claude-code",
-    "skills"
+    "skills",
+    "decision-making"
   ],
   "skills": [
     "./skills/"
