@@ -56,5 +56,6 @@ from raw GitHub URLs:
 | `msl-package-assistant` | Alberta Crown land MSL renewal/amendment/partial-reclamation package assembly: compliant OneStop/AER ZIP structures, required-file and naming checks. |
 | `shapefile-validator` | Validate & assemble Alberta Crown land submission packages (MSL, wellsites, pipelines, access roads): DWG/PDF/shapefile consistency, schema/projection/topology checks, ZIP readiness. |
 | `wellsite-plan-validator` | Validate wellsite plans against a structured compliance checklist with itemized YES/NO outcomes (site layout, environmental protections, permit readiness). |
+| `counsel` | Pressure-test consequential decisions with five independent advisory lenses (Contrarian, First Principles, Expansionist, Outsider, Executor) and a reconciled Chairman's Verdict; keeps decision advice separate from implementation proof. |
 
 _More CAD drafting skills go here as the library grows — see [CONTRIBUTING.md](./CONTRIBUTING.md)._
